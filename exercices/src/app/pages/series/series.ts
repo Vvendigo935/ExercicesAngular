@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { SortPipe } from '../../utils/sort-pipe';
+import { SortPipe } from '../../utils/pipes/sort-pipe';
 
 type Order = "asc" | "desc"
 
